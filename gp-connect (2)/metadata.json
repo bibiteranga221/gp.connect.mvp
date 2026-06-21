@@ -1,0 +1,6 @@
+{
+  "name": "GP Connect",
+  "description": "Plateforme de mise en relation de confiance pour l'envoi de colis internationaux avec des Grands Passagers (GPs).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
